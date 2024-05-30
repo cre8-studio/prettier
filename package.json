@@ -1,0 +1,19 @@
+{
+  "name": "@compelled-craftsman/prettier",
+  "version": "1.0.0",
+  "description": "Personal prettier overrides",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compelled-craftsman/prettier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compelled-craftsman/prettier/issues"
+  },
+  "homepage": "https://github.com/compelled-craftsman/prettier#readme"
+}
