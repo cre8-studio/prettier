@@ -1,5 +1,5 @@
 {
-  "name": "@compelled-craftsman/prettier",
+  "name": "@cre8-studio/prettier",
   "version": "1.0.0",
   "description": "Personal prettier overrides",
   "main": ".prettierrc.json",
